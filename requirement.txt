@@ -1,0 +1,5 @@
+requirements-
+--python2.7 tkinter
+
+Run in terminal by--
+$python qlearn_GAMEbot.py
